@@ -23,4 +23,4 @@ npm run dev
 
 
 ---
-⌨️ com ❤️ por [Shayenne Zago](https://gist.github.com/shayzago) 😊
+⌨️ com ❤️ por [Shayenne Zago](https://github.com/shayzago) 😊
